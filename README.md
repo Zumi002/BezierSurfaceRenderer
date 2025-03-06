@@ -47,9 +47,11 @@ focusing on implementing **polygon filling with scanline** on CPU.
 The Bézier surface control points are stored in a text file with 16 lines, each representing a control point (X, Y, Z coordinates).
 
 Example:
-```0.0 0.0 0.0
-   1.0 0.5 0.0
-   ...```
+```
+0.0 0.0 0.0
+1.0 0.5 0.0
+... 
+```
 
 A few example surfaces, textures and normals are included in the Test folder.
 
