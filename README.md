@@ -2,7 +2,7 @@
 
 BézierSurfaceRenderer is an interactive application for rendering **third-degree Bézier surfaces** 
 with support for **Phong lighting**, **textures**, and **normal mapping**.
-The project was developed as part of a university computer graphics course,
+The project was developed as part of a Computer Graphics course at WUT,
 focusing on implementing **polygon filling with scanline** on CPU.
 
 <p align="center">
